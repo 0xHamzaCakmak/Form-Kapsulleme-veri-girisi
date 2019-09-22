@@ -1,0 +1,10 @@
+C:\Users\reela\source\repos\Form Kapsülleme veri girişi\Form Kapsülleme veri girişi\bin\Debug\Form Kapsülleme veri girişi.exe.config
+C:\Users\reela\source\repos\Form Kapsülleme veri girişi\Form Kapsülleme veri girişi\bin\Debug\Form Kapsülleme veri girişi.exe
+C:\Users\reela\source\repos\Form Kapsülleme veri girişi\Form Kapsülleme veri girişi\bin\Debug\Form Kapsülleme veri girişi.pdb
+C:\Users\reela\source\repos\Form Kapsülleme veri girişi\Form Kapsülleme veri girişi\obj\Debug\Form Kapsülleme veri girişi.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\Form Kapsülleme veri girişi\Form Kapsülleme veri girişi\obj\Debug\Form_Kapsülleme_veri_girişi.Form1.resources
+C:\Users\reela\source\repos\Form Kapsülleme veri girişi\Form Kapsülleme veri girişi\obj\Debug\Form_Kapsülleme_veri_girişi.Properties.Resources.resources
+C:\Users\reela\source\repos\Form Kapsülleme veri girişi\Form Kapsülleme veri girişi\obj\Debug\Form Kapsülleme veri girişi.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\Form Kapsülleme veri girişi\Form Kapsülleme veri girişi\obj\Debug\Form Kapsülleme veri girişi.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\Form Kapsülleme veri girişi\Form Kapsülleme veri girişi\obj\Debug\Form Kapsülleme veri girişi.exe
+C:\Users\reela\source\repos\Form Kapsülleme veri girişi\Form Kapsülleme veri girişi\obj\Debug\Form Kapsülleme veri girişi.pdb
